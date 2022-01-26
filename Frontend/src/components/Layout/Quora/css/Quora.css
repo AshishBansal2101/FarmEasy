@@ -1,0 +1,25 @@
+.quora {
+    width: "100%";
+    min-width: fit-content;
+  }
+  
+  
+  .quora_content {
+    background-color: #EEEEEE;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .react-responsive-modal-modal {
+    width: 90vw;
+    height: 90vh;
+  }
+  
+  .quill {
+    height: 50vh;
+  }
+  
+  .react-responsive-modal-overlay {
+    background: rgb(0 0 0 / 75%);
+  }
